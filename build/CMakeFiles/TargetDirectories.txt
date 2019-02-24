@@ -1,0 +1,7 @@
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/build/CMakeFiles/install/strip.dir
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/build/CMakeFiles/edit_cache.dir
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/build/CMakeFiles/trainingdataprocessor.dir
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/build/CMakeFiles/list_install_components.dir
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/build/CMakeFiles/install/local.dir
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/build/CMakeFiles/rebuild_cache.dir
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/build/CMakeFiles/install.dir

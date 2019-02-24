@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/trainingdataprocessor.dir/main.cpp.o CMakeFiles/trainingdataprocessor.dir/CSVdata.cpp.o  -o trainingdataprocessor 

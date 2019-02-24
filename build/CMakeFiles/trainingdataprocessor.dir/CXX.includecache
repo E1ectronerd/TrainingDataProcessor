@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/CSVdata.cpp
+CSVdata.h
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/CSVdata.h
+assert.h
+-
+iosfwd
+-
+algorithm
+-
+iostream
+-
+string.h
+-
+fstream
+-
+sstream
+-
+math.h
+-
+vector
+-
+
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/CSVdata.h
+string
+-
+vector
+-
+
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/main.cpp
+iostream
+-
+string
+-
+CSVdata.h
+/home/leviathan/Documents/Projects_git/TrainingDataProcessor/CSVdata.h
+
